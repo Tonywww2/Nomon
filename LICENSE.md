@@ -1,6 +1,6 @@
 # License / 许可
 
-版权所有 (c) 2025 Tonywww  
+版权所有 (c) 2025 [Tonywww, 射命丸政]  
 保留所有权利。
 
 本项目及其相关文档（以下简称“项目”）受版权法保护。未经版权所有者明确书面许可，任何人不得以任何形式或任何方式（包括但不限于电子、机械、影印、录制或其他方式）复制、修改、分发、公开展示、公开表演、创建本项目的衍生作品，或以其他方式使用本项目的任何部分。
@@ -26,7 +26,7 @@
 
 # License (English)
 
-**Copyright (c) 2025 Tonywww**  
+**Copyright (c) 2025 [Tonywww, 射命丸政]**  
 **All Rights Reserved.**
 
 This project and associated documentation files (the “Project”) are protected by copyright law. Without express written permission from the copyright holder, no person may use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Project, nor permit persons to whom the Project is furnished to do so, in any form or by any means (including but not limited to electronic, mechanical, photocopying, recording or otherwise).
