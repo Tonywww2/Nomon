@@ -1,0 +1,22 @@
+{
+	"isHoldToAttackEnabled": true,
+	"isMiningWithWeaponsEnabled": true,
+	"isSwingThruGrassEnabled": true,
+	"isAttackInsteadOfMineWhenEnemiesCloseEnabled": true,
+	"isHighlightCrosshairEnabled": true,
+	"hudHighlightColor": 16711680,
+	"isShowingArmsInFirstPerson": false,
+	"isShowingOtherHandFirstPerson": true,
+	"isSweepingParticleEnabled": true,
+	"isTooltipAttackRangeEnabled": true,
+	"weaponSwingSoundVolume": 100,
+	"isDebugOBBEnabled": true,
+	"swingThruGrassBlacklist": "farmersdelight",
+	"mineWithWeaponBlacklist": "",
+	// 禁用第一人称动画
+	"disableFirstPersonAnimation": false,
+	// 禁用身体大部分动画
+	"disableMostBodyAnimations": true,
+	// 禁用所有动画
+	"disableAllAnimation": false
+}
